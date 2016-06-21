@@ -39,3 +39,13 @@ D:\code\Startkit-Official\StarterKit.Test\bin\Debug\NLog.xml
 D:\code\Startkit-Official\StarterKit.Test\obj\Debug\StarterKitTest.csprojResolveAssemblyReference.cache
 D:\code\Startkit-Official\StarterKit.Test\obj\Debug\TestAssembly.dll
 D:\code\Startkit-Official\StarterKit.Test\obj\Debug\TestAssembly.pdb
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\StarterKit.Test\bin\Debug\TestAssembly.dll
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\StarterKit.Test\bin\Debug\TestAssembly.pdb
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\StarterKit.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\StarterKit.Test\bin\Debug\StartKit.dll
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\StarterKit.Test\bin\Debug\NLog.dll
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\StarterKit.Test\bin\Debug\StartKit.pdb
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\StarterKit.Test\bin\Debug\NLog.xml
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\StarterKit.Test\obj\Debug\StarterKitTest.csprojResolveAssemblyReference.cache
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\StarterKit.Test\obj\Debug\TestAssembly.dll
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\StarterKit.Test\obj\Debug\TestAssembly.pdb

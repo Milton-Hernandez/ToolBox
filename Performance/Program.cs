@@ -25,7 +25,7 @@ namespace Performance
 
 
 
-       /*     App.Debug?.Log("SMPT Host: " + App.SMTPHost);
+            App.Debug?.Log("SMPT Host: " + App.SMTPHost);
             App.Debug?.Log("This is my parameter: {0}", App.IsDebug);
             Runtime.MaxInstances = 3;
             App.Debug?.Log("SMPT Host: " + App.SMTPHost);
@@ -82,7 +82,7 @@ namespace Performance
                 App.Timer?.CheckPoint(Profiler.Point.Point7);
                 //App.Timer?.ToConsole();
                 App.Timer?.Reset();
-                Thread.Sleep(1000);*/
+                Thread.Sleep(1000);
          //   };
         }
     }

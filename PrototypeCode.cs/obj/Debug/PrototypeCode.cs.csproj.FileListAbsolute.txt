@@ -8,3 +8,13 @@ D:\code\StartKitBak\PrototypeCode.cs\bin\Debug\StartKit.pdb
 D:\code\StartKitBak\PrototypeCode.cs\bin\Debug\NLog.xml
 D:\code\StartKitBak\PrototypeCode.cs\obj\Debug\PrototypeCode.cs.exe
 D:\code\StartKitBak\PrototypeCode.cs\obj\Debug\PrototypeCode.cs.pdb
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\PrototypeCode.cs\bin\Debug\PrototypeCode.cs.exe.config
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\PrototypeCode.cs\bin\Debug\PrototypeCode.cs.exe
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\PrototypeCode.cs\bin\Debug\PrototypeCode.cs.pdb
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\PrototypeCode.cs\bin\Debug\StartKit.dll
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\PrototypeCode.cs\bin\Debug\NLog.dll
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\PrototypeCode.cs\bin\Debug\StartKit.pdb
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\PrototypeCode.cs\bin\Debug\NLog.xml
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\PrototypeCode.cs\obj\Debug\PrototypeCode.cs.csprojResolveAssemblyReference.cache
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\PrototypeCode.cs\obj\Debug\PrototypeCode.cs.exe
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\PrototypeCode.cs\obj\Debug\PrototypeCode.cs.pdb

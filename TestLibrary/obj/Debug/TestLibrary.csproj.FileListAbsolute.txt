@@ -22,3 +22,15 @@ D:\code\Startkit-Official\TestLibrary\bin\Debug\NLog.xml
 D:\code\Startkit-Official\TestLibrary\obj\Debug\TestLibrary.csprojResolveAssemblyReference.cache
 D:\code\Startkit-Official\TestLibrary\obj\Debug\TestLibrary.dll
 D:\code\Startkit-Official\TestLibrary\obj\Debug\TestLibrary.pdb
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\TestLibrary\bin\Debug\TestLibrary.dll
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\TestLibrary\bin\Debug\TestLibrary.pdb
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\TestLibrary\bin\Debug\TestAssembly.dll
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\TestLibrary\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\TestLibrary\bin\Debug\StartKit.dll
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\TestLibrary\bin\Debug\NLog.dll
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\TestLibrary\bin\Debug\TestAssembly.pdb
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\TestLibrary\bin\Debug\StartKit.pdb
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\TestLibrary\bin\Debug\NLog.xml
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\TestLibrary\obj\Debug\TestLibrary.csprojResolveAssemblyReference.cache
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\TestLibrary\obj\Debug\TestLibrary.dll
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\TestLibrary\obj\Debug\TestLibrary.pdb

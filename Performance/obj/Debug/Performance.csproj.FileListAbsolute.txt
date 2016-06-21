@@ -46,3 +46,16 @@ D:\code\Startkit-Official\Performance\bin\Debug\StartKit.pdb
 D:\code\Startkit-Official\Performance\bin\Debug\TestAssembly.pdb
 D:\code\Startkit-Official\Performance\bin\Debug\NLog.xml
 D:\code\Startkit-Official\Performance\obj\Debug\Performance.csprojResolveAssemblyReference.cache
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\Performance\bin\Debug\Performance.exe.config
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\Performance\obj\Debug\Performance.exe
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\Performance\obj\Debug\Performance.pdb
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\Performance\bin\Debug\Performance.exe
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\Performance\bin\Debug\Performance.pdb
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\Performance\bin\Debug\NLog.dll
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\Performance\bin\Debug\StartKit.dll
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\Performance\bin\Debug\TestAssembly.dll
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\Performance\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\Performance\bin\Debug\StartKit.pdb
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\Performance\bin\Debug\TestAssembly.pdb
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\Performance\bin\Debug\NLog.xml
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\Performance\obj\Debug\Performance.csprojResolveAssemblyReference.cache

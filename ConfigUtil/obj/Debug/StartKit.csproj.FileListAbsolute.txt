@@ -31,3 +31,9 @@ D:\code\Startkit-Official\ConfigUtil\bin\Debug\NLog.dll
 D:\code\Startkit-Official\ConfigUtil\bin\Debug\NLog.xml
 D:\code\Startkit-Official\ConfigUtil\obj\Debug\StartKit.dll
 D:\code\Startkit-Official\ConfigUtil\obj\Debug\StartKit.pdb
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\ConfigUtil\bin\Debug\StartKit.dll
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\ConfigUtil\bin\Debug\StartKit.pdb
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\ConfigUtil\bin\Debug\NLog.dll
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\ConfigUtil\bin\Debug\NLog.xml
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\ConfigUtil\obj\Debug\StartKit.dll
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\ConfigUtil\obj\Debug\StartKit.pdb

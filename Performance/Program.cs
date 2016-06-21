@@ -39,20 +39,20 @@ namespace Performance
 
             App.Error.Log("Log Folder: " + App.LogFolder);
 
-            var f = new FileAppender(@"d:\temp\","file.log",AppenderFreq.HOURLY);
-            App.Info.Log(f.FileName);
+            //var f = new FileAppender(@"d:\temp\","file.log",AppenderFreq.HOURLY);
+            //App.Info.Log(f.FileName);
 
-            for (int i = 0; i < 1000; i++)
-                f.Append(DateTime.Now.ToString() + ": Message #:" + i + "\n");
+            //for (int i = 0; i < 1000; i++)
+            //    f.Append(DateTime.Now.ToString() + ": Message #:" + i + "\n");
  
          //   Console.In.ReadLine();
-         //   for (;;)
-         //   {
+            for (;;)
+            {
                 App.Timer?.Reset();
                 t.CheckPoint(Profiler.Point.First);
-                App.Info?.Log("ConfigDir: " + Runtime.ConfigDir);
+               // App.Info?.Log("ConfigDir: " + Runtime.ConfigDir);
                 t.CheckPoint(Profiler.Point.Point1);
-                App.Info?.Log("{0}", App.LogToFile);
+              //  App.Info?.Log("{0}", App.LogToFile);
 
                 string r = "";
                 Random rnd = new Random();
@@ -63,8 +63,6 @@ namespace Performance
                         r += s;
                 App.Timer?.CheckPoint(Profiler.Point.Point3);
                 App.LogName = "newlogfile.log";
-                App.Error?.Log("Bogus: " + Properties.PropBogus);
-                App.Info?.Log("Sample Date: " + Properties.SampleDate);
                 App.Timer?.CheckPoint(Profiler.Point.Point4);
 
                 r = "";
@@ -80,10 +78,10 @@ namespace Performance
                     foreach (var s in toks)
                         r += "Token is " + s;
                 App.Timer?.CheckPoint(Profiler.Point.Point7);
-                //App.Timer?.ToConsole();
+                App.Timer?.ToConsole(true);
                 App.Timer?.Reset();
                 Thread.Sleep(1000);
-         //   };
+            };
         }
     }
 }

@@ -1,4 +1,0 @@
-C:\Work\Code\StartKit\Startkit\bin\Debug\bin\Release\StartKit.dll
-C:\Work\Code\StartKit\Startkit\bin\Debug\bin\Release\StartKit.pdb
-Z:\Keep\Versioned\Code\DotNet\Startkit-Official\ConfigUtil\obj\Release\StartKit.dll
-Z:\Keep\Versioned\Code\DotNet\Startkit-Official\ConfigUtil\obj\Release\StartKit.pdb

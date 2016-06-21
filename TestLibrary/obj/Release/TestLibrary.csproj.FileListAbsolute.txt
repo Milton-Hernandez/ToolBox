@@ -1,5 +1,0 @@
-C:\Work\Code\StartKit\TestLib\bin\Debug\bin\Release\TestLibrary.dll
-C:\Work\Code\StartKit\TestLib\bin\Debug\bin\Release\TestLibrary.pdb
-Z:\Keep\Versioned\Code\DotNet\Startkit-Official\TestLibrary\obj\Release\TestLibrary.csprojResolveAssemblyReference.cache
-Z:\Keep\Versioned\Code\DotNet\Startkit-Official\TestLibrary\obj\Release\TestLibrary.dll
-Z:\Keep\Versioned\Code\DotNet\Startkit-Official\TestLibrary\obj\Release\TestLibrary.pdb

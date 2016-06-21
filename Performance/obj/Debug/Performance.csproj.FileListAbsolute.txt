@@ -1,6 +1,0 @@
-C:\Work\Code\StartKit\Performance\bin\Debug\Performance.exe.config
-C:\Work\Code\StartKit\Performance\bin\Debug\Performance.exe
-C:\Work\Code\StartKit\Performance\bin\Debug\Performance.pdb
-Z:\Keep\Versioned\Code\DotNet\Startkit-Official\Performance\obj\Debug\Performance.csprojResolveAssemblyReference.cache
-Z:\Keep\Versioned\Code\DotNet\Startkit-Official\Performance\obj\Debug\Performance.exe
-Z:\Keep\Versioned\Code\DotNet\Startkit-Official\Performance\obj\Debug\Performance.pdb

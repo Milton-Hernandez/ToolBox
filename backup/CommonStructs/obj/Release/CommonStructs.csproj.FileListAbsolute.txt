@@ -1,4 +1,0 @@
-C:\Users\mhernandez\code\OSAMUtils\OSAMUtils\CommonStructs\bin\Release\CommonStructs.dll
-C:\Users\mhernandez\code\OSAMUtils\OSAMUtils\CommonStructs\bin\Release\CommonStructs.pdb
-C:\Users\mhernandez\code\OSAMUtils\OSAMUtils\CommonStructs\obj\Release\CommonStructs.dll
-C:\Users\mhernandez\code\OSAMUtils\OSAMUtils\CommonStructs\obj\Release\CommonStructs.pdb

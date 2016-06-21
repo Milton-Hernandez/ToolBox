@@ -1,5 +1,0 @@
-D:\FS\utils\StartKit\Functions\bin\Debug\Functions.exe.config
-D:\FS\utils\StartKit\Functions\bin\Debug\Functions.exe
-D:\FS\utils\StartKit\Functions\bin\Debug\Functions.pdb
-D:\FS\utils\StartKit\Functions\obj\Debug\Functions.exe
-D:\FS\utils\StartKit\Functions\obj\Debug\Functions.pdb

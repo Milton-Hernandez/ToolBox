@@ -156,7 +156,7 @@ namespace StartKit {
 
                         Processed.Add(AssembName);
                     }
-                   catch(Exception ex)
+                   catch(Exception)
                     {
                         Messages.Add("Exception Loading Class: " + ClassName);
                     }

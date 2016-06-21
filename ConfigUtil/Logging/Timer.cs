@@ -79,7 +79,6 @@ namespace StartKit {
         public  void ToConsole(bool clear = false) {
             if (clear)
                 Console.Clear();
-            var title = "Performance Stats:";
             var stats = Stats();
             lock (LINE)
                 {

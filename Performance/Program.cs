@@ -39,14 +39,17 @@ namespace Performance
 
             App.Error.Log("Log Folder: " + App.LogFolder);
 
-            //var f = new FileAppender(@"d:\temp\","file.log",AppenderFreq.HOURLY);
-            //App.Info.Log(f.FileName);
+            var Colors = new ConsoleColor[] { ConsoleColor.Yellow, ConsoleColor.Blue, ConsoleColor.Red };
 
-            //for (int i = 0; i < 1000; i++)
-            //    f.Append(DateTime.Now.ToString() + ": Message #:" + i + "\n");
+            var f = new CompositePrinter(new FileAppender(@"c:\temp\", "file", AppenderFreq.HOURLY), new ConsolePrinter(" | "));
+
+
+            for (int i = 0; i < 1000; i++)
+                f.Print(Colors, DateTime.Now.ToString(), ": Message #:" + i, "Extra Info","More Extra Info","Even More Extra info");
+
  
-         //   Console.In.ReadLine();
-            for (;;)
+            Console.In.ReadLine();
+         /*   for (;;)
             {
                 App.Timer?.Reset();
                 t.CheckPoint(Profiler.Point.First);
@@ -81,7 +84,7 @@ namespace Performance
                 App.Timer?.ToConsole(true);
                 App.Timer?.Reset();
                 Thread.Sleep(1000);
-            };
-        }
+            }; */
+        }  
     }
 }

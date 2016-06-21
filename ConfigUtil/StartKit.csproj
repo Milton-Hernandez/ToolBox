@@ -57,12 +57,15 @@
     <Compile Include="Configuration\ConfigLoader.cs" />
     <Compile Include="Configuration\ShortcutAttribute.cs" />
     <Compile Include="Configuration\Settings.cs" />
+    <Compile Include="Logging\Appenders\CompositePrinter.cs" />
+    <Compile Include="Logging\Appenders\ConsolePrinter.cs" />
     <Compile Include="Logging\Email.cs" />
-    <Compile Include="Logging\FileAppender.cs" />
+    <Compile Include="Logging\Appenders\FileAppender.cs" />
     <Compile Include="Logging\GenericLogger.cs" />
     <Compile Include="Logging\ILogger.cs" />
     <Compile Include="Configuration\App.cs" />
     <Compile Include="Logging\NLogLogger.cs" />
+    <Compile Include="Logging\Appenders\TextPrinter.cs" />
     <Compile Include="Logging\Timer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Serialization\DynamicHelper.cs" />

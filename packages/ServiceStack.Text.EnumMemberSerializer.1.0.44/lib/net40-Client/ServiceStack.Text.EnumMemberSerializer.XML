@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ServiceStack.Text.EnumMemberSerializer</name>
+    </assembly>
+    <members>
+        <member name="T:ServiceStack.Text.EnumMemberSerializer.EnumSerializerConfigurator">
+            <summary>
+                Fluent configuration for the enum member enumeration serializer
+            </summary>
+        </member>
+        <member name="T:ServiceStack.Text.EnumMemberSerializer.IEnumSerializerConfigurator">
+            <summary>
+                Fluent configuration for the custom enumeration serializer.
+            </summary>
+        </member>
+        <member name="M:ServiceStack.Text.EnumMemberSerializer.IEnumSerializerConfigurator.WithNamespaceFilter(System.Func{System.String,System.Boolean})">
+            <summary>
+                Filter to apply to namespaces.
+            </summary>
+            <param name="enumNamespaceFilter">Returns true for an acceptable namespace.</param>
+        </member>
+        <member name="M:ServiceStack.Text.EnumMemberSerializer.IEnumSerializerConfigurator.WithAssemblies(System.Collections.Generic.ICollection{System.Reflection.Assembly})">
+            <summary>
+                Specifies assemblies to search.
+            </summary>
+            <param name="assembliesToScan"></param>
+        </member>
+        <member name="M:ServiceStack.Text.EnumMemberSerializer.IEnumSerializerConfigurator.WithEnumTypes(System.Collections.Generic.ICollection{System.Type})">
+            <summary>
+                Specifies individual enumeration types.
+            </summary>
+        </member>
+        <member name="M:ServiceStack.Text.EnumMemberSerializer.IEnumSerializerConfigurator.WithNullableEnumSerializers">
+            <summary>
+            This will configure the nullable enumeration as well as the non-nullable enumeration (recommended).
+            </summary>
+        </member>
+        <member name="M:ServiceStack.Text.EnumMemberSerializer.IEnumSerializerConfigurator.Configure">
+            <summary>
+                Perform configuration action.
+            </summary>
+        </member>
+        <member name="M:ServiceStack.Text.EnumMemberSerializer.EnumSerializerConfigurator.WithNamespaceFilter(System.Func{System.String,System.Boolean})">
+            <summary>
+                Only configure enumerations that match the provided namespace filter.
+                This filter applies to the types found in the provided assembly list.
+            </summary>
+            <param name="enumNamespaceFilter">Returns true for an acceptable namespace.</param>
+        </member>
+        <member name="M:ServiceStack.Text.EnumMemberSerializer.EnumSerializerConfigurator.WithAssemblies(System.Collections.Generic.ICollection{System.Reflection.Assembly})">
+            <summary>
+                Search the provided assemblies for enumerations to configure.
+                Multiple calls will add to the existing list.
+            </summary>
+            <param name="assembliesToScan"></param>
+        </member>
+        <member name="M:ServiceStack.Text.EnumMemberSerializer.EnumSerializerConfigurator.WithEnumTypes(System.Collections.Generic.ICollection{System.Type})">
+            <summary>
+                Allows individual enumeration types to be specified.
+                Multiple calls will add to the existing list.
+            </summary>
+        </member>
+        <member name="M:ServiceStack.Text.EnumMemberSerializer.EnumSerializerConfigurator.WithNullableEnumSerializers">
+            <summary>
+                This will configure the nullable enumeration as well as the non-nullable enumeration (recommended).
+            </summary>
+        </member>
+        <member name="M:ServiceStack.Text.EnumMemberSerializer.EnumSerializerConfigurator.Configure">
+            <summary>
+                Configures ServiceStack JsConfig with the custom enumeration serializers.
+            </summary>
+        </member>
+        <member name="T:ServiceStack.Text.EnumMemberSerializer.PrettyEnumExtensions">
+            <summary>
+                Serialize/Deserialize enumerations using EnumMember Attribute Value if present.
+            </summary>
+        </member>
+        <member name="M:ServiceStack.Text.EnumMemberSerializer.PrettyEnumExtensions.GetOptimalEnumDescription``1(System.Nullable{``0})">
+            <summary>
+                Gets the optimal string representation of a nullable enumeration.
+            </summary>
+            <returns>Returns EnumMember Value if present, otherwise returns enumValue.ToString().</returns>
+            <exception cref="T:System.InvalidOperationException">The type parameter is not an Enumeration.</exception>
+            <typeparam name="TEnum">The type must be an enumeration.</typeparam>
+        </member>
+        <member name="M:ServiceStack.Text.EnumMemberSerializer.PrettyEnumExtensions.GetOptimalEnumDescription``1(``0)">
+            <summary>
+                Gets the optimal string representation of an enumeration.
+            </summary>
+            <returns>Returns EnumMember Value if present, otherwise returns enumValue.ToString().</returns>
+            <exception cref="T:System.InvalidOperationException">The type parameter is not an Enumeration.</exception>
+            <typeparam name="TEnum">The type must be an enumeration.</typeparam>
+        </member>
+        <member name="M:ServiceStack.Text.EnumMemberSerializer.PrettyEnumExtensions.GetEnum``1(System.String)">
+            <summary>
+                Gets the enumeration for the given string representation.
+            </summary>
+            <param name="enumValue">The EnumMemberAttribute value, enumeration string value, or integer value (as string) of the enumeration.</param>
+            <exception cref="T:System.InvalidOperationException">The type parameter is not an Enumeration.</exception>
+            <typeparam name="TEnum">The type must be an enumeration.</typeparam>
+        </member>
+        <member name="M:ServiceStack.Text.EnumMemberSerializer.PrettyEnumExtensions.GetNullableEnum``1(System.String)">
+            <summary>
+                Gets the nullable enumeration for the given string representation.
+            </summary>
+            <param name="enumValue">The EnumMemberAttribute value, enumeration string value, or integer value (as string) of the enumeration.</param>
+            <exception cref="T:System.InvalidOperationException">The type parameter is not an Enumeration.</exception>
+            <typeparam name="TEnum">The type must be an enumeration.</typeparam>
+        </member>
+    </members>
+</doc>

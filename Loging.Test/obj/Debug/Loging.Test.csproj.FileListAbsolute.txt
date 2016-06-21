@@ -1,0 +1,14 @@
+C:\Users\mhernandez\code\OSAMUtils\OSAMUtils\Loging.Test\bin\Debug\Loging.Test.exe.config
+C:\Users\mhernandez\code\OSAMUtils\OSAMUtils\Loging.Test\bin\Debug\Loging.Test.exe
+C:\Users\mhernandez\code\OSAMUtils\OSAMUtils\Loging.Test\bin\Debug\Loging.Test.pdb
+C:\Users\mhernandez\code\OSAMUtils\OSAMUtils\Loging.Test\bin\Debug\CommonStructs.dll
+C:\Users\mhernandez\code\OSAMUtils\OSAMUtils\Loging.Test\bin\Debug\Logging.dll
+C:\Users\mhernandez\code\OSAMUtils\OSAMUtils\Loging.Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mhernandez\code\OSAMUtils\OSAMUtils\Loging.Test\bin\Debug\NLog.dll
+C:\Users\mhernandez\code\OSAMUtils\OSAMUtils\Loging.Test\bin\Debug\CommonStructs.pdb
+C:\Users\mhernandez\code\OSAMUtils\OSAMUtils\Loging.Test\bin\Debug\Logging.pdb
+C:\Users\mhernandez\code\OSAMUtils\OSAMUtils\Loging.Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mhernandez\code\OSAMUtils\OSAMUtils\Loging.Test\bin\Debug\NLog.xml
+C:\Users\mhernandez\code\OSAMUtils\OSAMUtils\Loging.Test\obj\Debug\Loging.Test.csprojResolveAssemblyReference.cache
+C:\Users\mhernandez\code\OSAMUtils\OSAMUtils\Loging.Test\obj\Debug\Loging.Test.exe
+C:\Users\mhernandez\code\OSAMUtils\OSAMUtils\Loging.Test\obj\Debug\Loging.Test.pdb

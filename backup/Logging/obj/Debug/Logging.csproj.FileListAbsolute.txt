@@ -1,0 +1,9 @@
+C:\Users\mhernandez\code\OSAMUtils\OSAMUtils\Logging\bin\Debug\Logging.dll
+C:\Users\mhernandez\code\OSAMUtils\OSAMUtils\Logging\bin\Debug\Logging.pdb
+C:\Users\mhernandez\code\OSAMUtils\OSAMUtils\Logging\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mhernandez\code\OSAMUtils\OSAMUtils\Logging\bin\Debug\NLog.dll
+C:\Users\mhernandez\code\OSAMUtils\OSAMUtils\Logging\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mhernandez\code\OSAMUtils\OSAMUtils\Logging\bin\Debug\NLog.xml
+C:\Users\mhernandez\code\OSAMUtils\OSAMUtils\Logging\obj\Debug\Logging.csprojResolveAssemblyReference.cache
+C:\Users\mhernandez\code\OSAMUtils\OSAMUtils\Logging\obj\Debug\Logging.dll
+C:\Users\mhernandez\code\OSAMUtils\OSAMUtils\Logging\obj\Debug\Logging.pdb

@@ -1,0 +1,12 @@
+
+                {
+                 ClassName: 'Performance.Address',
+                 FileName:  'Performance',
+                 FilePath:  '.',
+                 Template:  {
+                    Num:     300,
+                    Street:  'ABC',
+                    Town:    'Utopia',
+                    Zip:     '03603'
+                   }   
+                }

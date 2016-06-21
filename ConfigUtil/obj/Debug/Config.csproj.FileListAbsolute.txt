@@ -1,0 +1,8 @@
+D:\FS\utils\OSAMUtils\ConfigUtil\bin\Debug\ConfigUtil.dll
+D:\FS\utils\OSAMUtils\ConfigUtil\bin\Debug\ConfigUtil.pdb
+D:\FS\utils\OSAMUtils\ConfigUtil\bin\Debug\Newtonsoft.Json.dll
+D:\FS\utils\OSAMUtils\ConfigUtil\bin\Debug\NLog.dll
+D:\FS\utils\OSAMUtils\ConfigUtil\bin\Debug\Newtonsoft.Json.xml
+D:\FS\utils\OSAMUtils\ConfigUtil\obj\Debug\Config.csprojResolveAssemblyReference.cache
+D:\FS\utils\OSAMUtils\ConfigUtil\obj\Debug\ConfigUtil.dll
+D:\FS\utils\OSAMUtils\ConfigUtil\obj\Debug\ConfigUtil.pdb

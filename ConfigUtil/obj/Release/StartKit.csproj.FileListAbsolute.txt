@@ -1,0 +1,14 @@
+D:\FS\utils\StartKit\ConfigUtil\bin\Release\StartKit.dll
+D:\FS\utils\StartKit\ConfigUtil\bin\Release\StartKit.pdb
+D:\FS\utils\StartKit\ConfigUtil\bin\Release\Newtonsoft.Json.dll
+D:\FS\utils\StartKit\ConfigUtil\bin\Release\NLog.dll
+D:\FS\utils\StartKit\ConfigUtil\bin\Release\Newtonsoft.Json.xml
+D:\FS\utils\StartKit\ConfigUtil\obj\Release\StartKit.dll
+D:\FS\utils\StartKit\ConfigUtil\obj\Release\StartKit.pdb
+D:\code\Startkit-Official\ConfigUtil\bin\Release\StartKit.dll
+D:\code\Startkit-Official\ConfigUtil\bin\Release\StartKit.pdb
+D:\code\Startkit-Official\ConfigUtil\bin\Release\NLog.dll
+D:\code\Startkit-Official\ConfigUtil\bin\Release\NLog.xml
+D:\code\Startkit-Official\ConfigUtil\obj\Release\StartKit.csprojResolveAssemblyReference.cache
+D:\code\Startkit-Official\ConfigUtil\obj\Release\StartKit.dll
+D:\code\Startkit-Official\ConfigUtil\obj\Release\StartKit.pdb

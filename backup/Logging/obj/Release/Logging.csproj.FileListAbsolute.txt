@@ -1,0 +1,16 @@
+C:\Users\mhernandez\code\OSAMUtils\OSAMUtils\Logging\bin\Release\Logging.dll
+C:\Users\mhernandez\code\OSAMUtils\OSAMUtils\Logging\bin\Release\Logging.pdb
+C:\Users\mhernandez\code\OSAMUtils\OSAMUtils\Logging\bin\Release\Newtonsoft.Json.dll
+C:\Users\mhernandez\code\OSAMUtils\OSAMUtils\Logging\bin\Release\NLog.dll
+C:\Users\mhernandez\code\OSAMUtils\OSAMUtils\Logging\bin\Release\Newtonsoft.Json.xml
+C:\Users\mhernandez\code\OSAMUtils\OSAMUtils\Logging\bin\Release\NLog.xml
+C:\Users\mhernandez\code\OSAMUtils\OSAMUtils\Logging\obj\Release\Logging.dll
+C:\Users\mhernandez\code\OSAMUtils\OSAMUtils\Logging\obj\Release\Logging.pdb
+D:\FS\utils\OSAMUtils\Logging\bin\Release\Logging.dll
+D:\FS\utils\OSAMUtils\Logging\bin\Release\Logging.pdb
+D:\FS\utils\OSAMUtils\Logging\bin\Release\Newtonsoft.Json.dll
+D:\FS\utils\OSAMUtils\Logging\bin\Release\NLog.dll
+D:\FS\utils\OSAMUtils\Logging\bin\Release\Newtonsoft.Json.xml
+D:\FS\utils\OSAMUtils\Logging\bin\Release\NLog.xml
+D:\FS\utils\OSAMUtils\Logging\obj\Release\Logging.dll
+D:\FS\utils\OSAMUtils\Logging\obj\Release\Logging.pdb

@@ -1,0 +1,3 @@
+D:\FS\utils\StartKit\Functions\bin\Release\Functions.exe.config
+D:\FS\utils\StartKit\Functions\bin\Release\Functions.exe
+D:\FS\utils\StartKit\Functions\obj\Release\Functions.exe

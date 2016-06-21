@@ -1,0 +1,9 @@
+C:\Users\mhernandez\code\OSAMUtils\OSAMUtils\ConfigUtil\bin\Release\ConfigUtil.dll
+C:\Users\mhernandez\code\OSAMUtils\OSAMUtils\ConfigUtil\bin\Release\ConfigUtil.pdb
+C:\Users\mhernandez\code\OSAMUtils\OSAMUtils\ConfigUtil\bin\Release\Newtonsoft.Json.dll
+C:\Users\mhernandez\code\OSAMUtils\OSAMUtils\ConfigUtil\bin\Release\ServiceStack.Text.dll
+C:\Users\mhernandez\code\OSAMUtils\OSAMUtils\ConfigUtil\bin\Release\Newtonsoft.Json.xml
+C:\Users\mhernandez\code\OSAMUtils\OSAMUtils\ConfigUtil\bin\Release\ServiceStack.Text.xml
+C:\Users\mhernandez\code\OSAMUtils\OSAMUtils\ConfigUtil\obj\Release\ConfigUtil.csprojResolveAssemblyReference.cache
+C:\Users\mhernandez\code\OSAMUtils\OSAMUtils\ConfigUtil\obj\Release\ConfigUtil.dll
+C:\Users\mhernandez\code\OSAMUtils\OSAMUtils\ConfigUtil\obj\Release\ConfigUtil.pdb

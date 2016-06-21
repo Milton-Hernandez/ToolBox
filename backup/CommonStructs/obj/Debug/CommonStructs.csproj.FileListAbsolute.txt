@@ -1,0 +1,8 @@
+C:\Users\mhernandez\code\OSAMUtils\OSAMUtils\CommonStructs\bin\Debug\CommonStructs.dll
+C:\Users\mhernandez\code\OSAMUtils\OSAMUtils\CommonStructs\bin\Debug\CommonStructs.pdb
+C:\Users\mhernandez\code\OSAMUtils\OSAMUtils\CommonStructs\obj\Debug\CommonStructs.dll
+C:\Users\mhernandez\code\OSAMUtils\OSAMUtils\CommonStructs\obj\Debug\CommonStructs.pdb
+D:\FS\utils\OSAMUtils\CommonStructs\bin\Debug\CommonStructs.dll
+D:\FS\utils\OSAMUtils\CommonStructs\bin\Debug\CommonStructs.pdb
+D:\FS\utils\OSAMUtils\CommonStructs\obj\Debug\CommonStructs.dll
+D:\FS\utils\OSAMUtils\CommonStructs\obj\Debug\CommonStructs.pdb

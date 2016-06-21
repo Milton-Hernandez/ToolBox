@@ -1,0 +1,5 @@
+C:\Work\Code\StartKit\Prototype\bin\Release\PrototypeCode.cs.exe.config
+C:\Work\Code\StartKit\Prototype\bin\Release\PrototypeCode.cs.exe
+C:\Work\Code\StartKit\Prototype\bin\Release\PrototypeCode.cs.pdb
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\PrototypeCode.cs\obj\Release\PrototypeCode.cs.exe
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\PrototypeCode.cs\obj\Release\PrototypeCode.cs.pdb

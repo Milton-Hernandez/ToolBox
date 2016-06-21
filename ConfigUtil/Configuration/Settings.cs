@@ -17,6 +17,8 @@ namespace StartKit {
          private static bool Loaded = false;
          public  static List<string> Messages = new List<string>();
          public static List<string> Errors = new List<string>();
+
+         public static IDictionary<string,string> AssembInfo { get; private set; }
         #endregion
 
         static Settings()

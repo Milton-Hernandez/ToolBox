@@ -13,16 +13,12 @@ namespace Performance
             ConfigFileCreator.Create();
             var t = new Profiler();
             Runtime.SetArgs(args);                                   
-            Runtime.ConfigDir = Environment.GetEnvironmentVariable("TMP") + "/" + ".skconf/";
-
-            App.Info.Log("Logging Information");
-            App.LogToConsole = true;
+          
             App.Profiling = true;
-            App.Info?.Log("Runtime Name: "  + Runtime.Name);
-            App.Info?.Log("Config Dir: " + Runtime.ConfigDir);
-            App.Info?.Log(App.LogFolder);
-            App.Info?.Log(App.LogName);
-
+            App.LogToFile = true;
+            App.Info.Log("Logging Information");
+            App.PrintInfo();
+            App.Warning?.Log("An Additional warning");
 
 
             App.Debug?.Log("SMPT Host: " + App.SMTPHost);
@@ -32,6 +28,9 @@ namespace Performance
             App.Debug?.Log("This is my parameter: {0}", App.IsDebug);
             App.Error?.Log("This Instance: " + Runtime.ThisInstance);
 
+            App.DumpConfig(typeof(TestNamespace.Properties));
+
+            Console.In.ReadLine();
             App.LogToFile = true;
             App.Error?.Log("Prop1: " + Properties.Prop1);
             App.Error?.Log("Prop2: " + Properties.Prop2);
@@ -39,7 +38,7 @@ namespace Performance
 
             App.Error.Log("Log Folder: " + App.LogFolder);
 
-            var Colors = new ConsoleColor[] { ConsoleColor.Yellow, ConsoleColor.Blue, ConsoleColor.Red };
+          /*  var Colors = new ConsoleColor[] { ConsoleColor.Yellow, ConsoleColor.Blue, ConsoleColor.Red };
 
             var f = new CompositePrinter(new FileAppender(@"c:\temp\", "file", AppenderFreq.HOURLY), new ConsolePrinter(" | "));
 
@@ -47,15 +46,15 @@ namespace Performance
             for (int i = 0; i < 1000; i++)
                 f.Print(Colors, DateTime.Now.ToString(), ": Message #:" + i, "Extra Info","More Extra Info","Even More Extra info");
 
- 
+ */
             Console.In.ReadLine();
-         /*   for (;;)
+            for (;;)
             {
                 App.Timer?.Reset();
                 t.CheckPoint(Profiler.Point.First);
-               // App.Info?.Log("ConfigDir: " + Runtime.ConfigDir);
+                App.Info?.Log("ConfigDir: " + Runtime.ConfigDir);
                 t.CheckPoint(Profiler.Point.Point1);
-              //  App.Info?.Log("{0}", App.LogToFile);
+                App.Info?.Log("{0}", App.LogToFile);
 
                 string r = "";
                 Random rnd = new Random();
@@ -81,10 +80,10 @@ namespace Performance
                     foreach (var s in toks)
                         r += "Token is " + s;
                 App.Timer?.CheckPoint(Profiler.Point.Point7);
-                App.Timer?.ToConsole(true);
+                App.Timer?.ToConsole();
                 App.Timer?.Reset();
                 Thread.Sleep(1000);
-            }; */
+            }; 
         }  
     }
 }

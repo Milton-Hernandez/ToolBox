@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using StartKit;
 using StartKit.Configuration;
 using System.IO;
+using StartKit.Serialization;
 
 namespace StartKit
 {
@@ -156,13 +157,45 @@ namespace StartKit
             }
         }
 
+        public static void PrintInfo()
+        {
+            App.Debug?.Log("------------------------------------------------");
+            App.Debug?.Log("Runtime Name:\t" + Runtime.Name);
+            App.Debug?.Log("Config Folder:\t" + Runtime.ConfigDir);
+            App.Debug?.Log("Log Folder:\t" + App.LogFolder);
+            App.Debug?.Log("Log Name:\t" + App.LogName);
+            App.Debug?.Log("------------------------------------------------");
+            foreach (var s in AssemblyReflector.AssemblyDictionary.Keys)
+                App.Debug?.Log(AssemblyReflector.AssemblyDictionary[s].Label);
+            App.Debug?.Log("------------------------------------------------");
+        }
+
+        public static void DumpConfig(Type t)
+        {
+            dynamic d = DynamicHelper.ToDynamic(t);
+            string j = DynSerializer.ToJason(d);
+            string fname = Runtime.ConfigDir + t.FullName + ".cfg";
+            File.WriteAllText(fname, j);
+            App.Info?.Log("Config Written to: " + fname);
+        }
+
+        public static void DumpConfig(Object obj)
+        {
+            dynamic d = DynamicHelper.ToDynamic(obj);
+            string j = DynSerializer.ToJason(d);
+            Type t = obj.GetType();
+            string fname = Runtime.ConfigDir + t.FullName + ".cfg";
+            File.WriteAllText(fname, j);
+            App.Info?.Log("Config Written to: " + fname);
+        }
+
         private static  ILogger UnderLogger { get;  set;  }
 
 
         private static void SetLog(LevelType curLevel)
         {
             if(UnderLogger == null)
-                UnderLogger = new NLogLogger();
+                UnderLogger = new BasicLogger();
             if (curLevel == LevelType.DEBUG)
                 Debug = new GenericLogger() { InLogger = UnderLogger, LogLevel = LevelType.DEBUG };
             if (curLevel >= LevelType.INFO)

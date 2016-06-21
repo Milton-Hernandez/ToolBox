@@ -16,7 +16,7 @@ namespace TestNamespace
                 Runtime.SetArgs(args);
             }
 
-            var tmp = Environment.GetEnvironmentVariable("TMP") + "/" + ".skconf/";
+            var tmp = Environment.GetEnvironmentVariable("TMP") + Path.DirectorySeparatorChar + ".skconf" + Path.DirectorySeparatorChar;
             if (!Directory.Exists(tmp))
                 Directory.CreateDirectory(tmp);
             Runtime.ConfigDir = tmp;

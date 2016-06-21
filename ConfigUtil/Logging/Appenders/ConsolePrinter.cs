@@ -10,6 +10,11 @@ namespace StartKit
     {
         public ConsolePrinter(string sep = " ") : base(sep) { }
  
+        public override string GetTime(DateTime t)
+        {
+           return t.ToString("ddd HH:mm:ss.ff");
+        }
+
         public override void Write(ConsoleColor color, string str)
         {
             Console.ForegroundColor = color;

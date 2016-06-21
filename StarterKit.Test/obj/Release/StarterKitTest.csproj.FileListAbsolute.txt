@@ -1,0 +1,5 @@
+C:\Work\Code\StartKit\Test\bin\Debug\bin\Release\TestAssembly.dll
+C:\Work\Code\StartKit\Test\bin\Debug\bin\Release\TestAssembly.pdb
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\StarterKit.Test\obj\Release\StarterKitTest.csprojResolveAssemblyReference.cache
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\StarterKit.Test\obj\Release\TestAssembly.dll
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\StarterKit.Test\obj\Release\TestAssembly.pdb

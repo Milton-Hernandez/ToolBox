@@ -31,6 +31,11 @@ namespace StartKit
             File.AppendAllText(FileName, str);
         }
 
+        public override string GetTime(DateTime t)
+        {
+            return t.ToString("yyyy-MM-dd HH:mm:ss.ffff");
+        }
+
         public string FileName
         {
             get
@@ -38,19 +43,19 @@ namespace StartKit
                 var time = DateTime.Now;
                 if (_frequency == AppenderFreq.DAILY)
                 {
-                    return String.Format("{4}{0}{1}{2}_{3}{5}", time.Year.ToString("D4"),
+                    return String.Format("{4}\\{0}{1}{2}_{3}{5}", time.Year.ToString("D4"),
                                                              time.Month.ToString("D2"),
                                                              time.Day.ToString("D2"),
                                                              _fileSuffix, _folder,_suffix);
                 }
                 else if (_frequency == AppenderFreq.HOURLY)
-                    return  String.Format("{5}{0}{1}{2}{3}_{4}{6}", time.Year.ToString("D4"),
+                    return  String.Format("{5}\\{0}{1}{2}{3}_{4}{6}", time.Year.ToString("D4"),
                                                       time.Month.ToString("D2"),
                                                       time.Day.ToString("D2"),
                                                       time.Hour.ToString("D2"),
                                                       _fileSuffix, _folder,_suffix);
                 else
-                    return String.Format("{1}{0}{2}", _fileSuffix, _folder,_suffix);
+                    return String.Format("{1}\\{0}{2}", _fileSuffix, _folder,_suffix);
             }
         }
 

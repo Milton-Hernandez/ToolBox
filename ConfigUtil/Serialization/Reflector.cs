@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Reflection;
 
@@ -8,7 +9,7 @@ namespace StartKit.Serialization
 {
     public class AssemblyReflector
     {
-        private static IDictionary<string, AssemblyReflector> AssemblyDictionary;
+        public static IDictionary<string, AssemblyReflector> AssemblyDictionary { get; private set; }
 
         static AssemblyReflector()
         {
@@ -60,11 +61,21 @@ namespace StartKit.Serialization
             }
         }
 
+        private string GetLabel(Assembly arg)
+        {
+            var attr = File.GetLastWriteTime(arg.Location);
+            var name = Path.GetFileName(arg.Location);
+            return "v" + attr.ToString("yyyyMMdd.HHmmss.fff") + ": " + name;
+        }
+
         private Assembly _assembly;
+
+        public string Label { get; private set; }
 
         private AssemblyReflector(Assembly arg)
         {
             _assembly = arg;
+            Label = GetLabel(arg);
         }
 
         public IEnumerable<string> TypeNames

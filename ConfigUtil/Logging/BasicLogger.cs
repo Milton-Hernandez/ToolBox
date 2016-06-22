@@ -66,10 +66,10 @@ namespace StartKit
         private void _print(ConsoleColor[] col, params string[] arg)
         {
             var t = DateTime.Now;
-            if(App.LogToConsole)
-               _console.LogQueue.Enqueue(new LogEntry(col,arg,t));
+            if (App.LogToConsole)
+                _console.Print(t, col, arg);
             if(App.LogToFile)
-               _file.LogQueue.Enqueue(new LogEntry(col, arg,t));
+               _file.Print(t, col, arg);
         }
 
         private const string DebugStr = "DEBUG  ";

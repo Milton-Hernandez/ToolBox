@@ -1,0 +1,4 @@
+C:\Work\Code\StartKit\StartKit\bin\Debug\bin\Debug\StartKit.dll
+C:\Work\Code\StartKit\StartKit\bin\Debug\bin\Debug\StartKit.pdb
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\ConfigUtil\obj\Debug\StartKit.dll
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\ConfigUtil\obj\Debug\StartKit.pdb

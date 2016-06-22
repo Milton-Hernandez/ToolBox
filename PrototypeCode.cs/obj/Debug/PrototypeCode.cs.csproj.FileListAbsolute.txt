@@ -1,0 +1,6 @@
+C:\Work\Code\StartKit\Prototype\bin\Debug\PrototypeCode.cs.exe.config
+C:\Work\Code\StartKit\Prototype\bin\Debug\PrototypeCode.cs.exe
+C:\Work\Code\StartKit\Prototype\bin\Debug\PrototypeCode.cs.pdb
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\PrototypeCode.cs\obj\Debug\PrototypeCode.cs.csprojResolveAssemblyReference.cache
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\PrototypeCode.cs\obj\Debug\PrototypeCode.cs.exe
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\PrototypeCode.cs\obj\Debug\PrototypeCode.cs.pdb

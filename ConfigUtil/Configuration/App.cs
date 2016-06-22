@@ -158,7 +158,7 @@ namespace StartKit
         }
 
         public static void PrintInfo()
-        {
+        {          
             App.Debug?.Log("------------------------------------------------");
             App.Debug?.Log("Runtime Name:\t" + Runtime.Name);
             App.Debug?.Log("Config Folder:\t" + Runtime.ConfigDir);
@@ -168,6 +168,7 @@ namespace StartKit
             foreach (var s in AssemblyReflector.AssemblyDictionary.Keys)
                 App.Debug?.Log(AssemblyReflector.AssemblyDictionary[s].Label);
             App.Debug?.Log("------------------------------------------------");
+
         }
 
         public static void DumpConfig(Type t)

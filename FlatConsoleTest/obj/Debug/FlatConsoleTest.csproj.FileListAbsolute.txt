@@ -1,0 +1,8 @@
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\FlatConsoleTest\bin\Debug\FlatConsoleTest.exe.config
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\FlatConsoleTest\bin\Debug\FlatConsoleTest.exe
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\FlatConsoleTest\bin\Debug\FlatConsoleTest.pdb
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\FlatConsoleTest\obj\Debug\FlatConsoleTest.csprojResolveAssemblyReference.cache
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\FlatConsoleTest\obj\Debug\FlatConsoleTest.exe
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\FlatConsoleTest\obj\Debug\FlatConsoleTest.pdb
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\FlatConsoleTest\bin\Debug\StartKit.dll
+Z:\Keep\Versioned\Code\DotNet\Startkit-Official\FlatConsoleTest\bin\Debug\StartKit.pdb

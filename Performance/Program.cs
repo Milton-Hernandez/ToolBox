@@ -10,10 +10,10 @@ namespace Performance
     {
         static void Main(string[] args)
         {
-            ConfigFileCreator.Create();
+         //   ConfigFileCreator.Create();
             var t = new Profiler();
-            Runtime.SetArgs(args);                                   
-          
+            Runtime.SetArgs(args);
+
             App.Profiling = true;
             App.LogToFile = true;
             App.Info.Log("Logging Information");
@@ -27,7 +27,7 @@ namespace Performance
             App.Debug?.Log("SMPT Host: " + App.SMTPHost);
             App.Debug?.Log("This is my parameter: {0}", App.IsDebug);
             App.Error?.Log("This Instance: " + Runtime.ThisInstance);
-
+            //new stuff
             App.DumpConfig(typeof(TestNamespace.Properties));
 
             Console.In.ReadLine();
@@ -83,7 +83,7 @@ namespace Performance
                 App.Timer?.ToConsole();
                 App.Timer?.Reset();
                 Thread.Sleep(1000);
-            }; 
-        }  
+            };
+        }
     }
 }

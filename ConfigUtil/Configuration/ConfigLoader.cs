@@ -5,9 +5,9 @@ using System.Collections.Generic;
 using System.Reflection;
 using System.IO;
 using System.Text.RegularExpressions;
-using StartKit.Serialization;
+using ToolBox.Serialization;
 
-namespace StartKit.Configuration
+namespace ToolBox.Configuration
 {
     /// <summary>
     /// Config Format Variable Loader</summary>

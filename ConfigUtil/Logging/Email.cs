@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Net.Mail;
 
-namespace StartKit.Logging {
+namespace ToolBox.Logging {
 
     public static class Email {
 

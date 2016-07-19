@@ -1,6 +1,6 @@
-﻿using StartKit;
+﻿using ToolBox;
 using System;
-using StartKit.Configuration;
+using ToolBox.Configuration;
 using TestNamespace;
 using System.Threading;
 

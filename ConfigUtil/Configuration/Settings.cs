@@ -5,11 +5,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 using System.Reflection;
-using StartKit.Configuration;
+using ToolBox.Configuration;
 using System.Text.RegularExpressions;
-using StartKit.Serialization;
+using ToolBox.Serialization;
 
-namespace StartKit {
+namespace ToolBox {
     public static class Settings  {
         #region Members...    
 

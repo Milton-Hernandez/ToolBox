@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Reflection;
 
-namespace StartKit
+namespace ToolBox
 {
     /// <summary>
     /// Repository for Runtime Level Settings</summary>

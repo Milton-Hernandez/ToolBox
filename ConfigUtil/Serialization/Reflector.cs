@@ -5,7 +5,7 @@ using System.Linq;
 using System.Reflection;
 
 
-namespace StartKit.Serialization
+namespace ToolBox.Serialization
 {
     public class AssemblyReflector
     {

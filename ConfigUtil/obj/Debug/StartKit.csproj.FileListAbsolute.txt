@@ -4,6 +4,5 @@ Z:\Keep\Versioned\Code\DotNet\Startkit-Official\ConfigUtil\obj\Debug\StartKit.dl
 Z:\Keep\Versioned\Code\DotNet\Startkit-Official\ConfigUtil\obj\Debug\StartKit.pdb
 C:\Users\milto\Dropbox\Keep\Versioned\Code\DotNet\Startkit-Official\ConfigUtil\obj\Debug\StartKit.dll
 C:\Users\milto\Dropbox\Keep\Versioned\Code\DotNet\Startkit-Official\ConfigUtil\obj\Debug\StartKit.pdb
-C:\Users\milto\Dropbox\Keep\Versioned\Code\DotNet\Udrix.Toolbox\ConfigUtil\obj\Debug\StartKit.csprojResolveAssemblyReference.cache
 C:\Users\milto\Dropbox\Keep\Versioned\Code\DotNet\Udrix.Toolbox\ConfigUtil\obj\Debug\StartKit.dll
 C:\Users\milto\Dropbox\Keep\Versioned\Code\DotNet\Udrix.Toolbox\ConfigUtil\obj\Debug\StartKit.pdb

@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace StartKit
+namespace ToolBox
 {
     [System.Runtime.InteropServices.StructLayout(LayoutKind.Explicit)]
     public struct Discrete

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace StartKit.Serialization
+namespace ToolBox.Serialization
 {
     public class ParenTokenizer
     {

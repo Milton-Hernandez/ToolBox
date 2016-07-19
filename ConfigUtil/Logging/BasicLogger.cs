@@ -3,7 +3,7 @@ using System.Threading.Tasks;
 using System.IO;
 using System.Runtime.CompilerServices;
 
-namespace StartKit
+namespace ToolBox
 {
     public sealed class BasicLogger: ILogger
     {

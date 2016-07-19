@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Diagnostics;
 using System.Threading;
-namespace StartKit {
+namespace ToolBox {
     public class Profiler     {
 
         public static dynamic Point { get { return App.Cat.TimePoint; }  }

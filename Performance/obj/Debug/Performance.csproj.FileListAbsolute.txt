@@ -4,3 +4,9 @@ C:\Work\Code\StartKit\Performance\bin\Debug\Performance.pdb
 Z:\Keep\Versioned\Code\DotNet\Startkit-Official\Performance\obj\Debug\Performance.csprojResolveAssemblyReference.cache
 Z:\Keep\Versioned\Code\DotNet\Startkit-Official\Performance\obj\Debug\Performance.exe
 Z:\Keep\Versioned\Code\DotNet\Startkit-Official\Performance\obj\Debug\Performance.pdb
+C:\Users\milto\Dropbox\Keep\Versioned\Code\DotNet\Startkit-Official\Performance\obj\Debug\Performance.exe
+C:\Users\milto\Dropbox\Keep\Versioned\Code\DotNet\Startkit-Official\Performance\obj\Debug\Performance.pdb
+C:\Users\milto\Dropbox\Keep\Versioned\Code\DotNet\Startkit-Official\Performance\obj\Debug\Performance.csprojResolveAssemblyReference.cache
+C:\Users\milto\Dropbox\Keep\Versioned\Code\DotNet\Udrix.Toolbox\Performance\obj\Debug\Performance.csprojResolveAssemblyReference.cache
+C:\Users\milto\Dropbox\Keep\Versioned\Code\DotNet\Udrix.Toolbox\Performance\obj\Debug\Performance.exe
+C:\Users\milto\Dropbox\Keep\Versioned\Code\DotNet\Udrix.Toolbox\Performance\obj\Debug\Performance.pdb

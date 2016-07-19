@@ -3,3 +3,9 @@ C:\Work\Code\StartKit\TestLib\bin\Debug\bin\Debug\TestLibrary.pdb
 Z:\Keep\Versioned\Code\DotNet\Startkit-Official\TestLibrary\obj\Debug\TestLibrary.csprojResolveAssemblyReference.cache
 Z:\Keep\Versioned\Code\DotNet\Startkit-Official\TestLibrary\obj\Debug\TestLibrary.dll
 Z:\Keep\Versioned\Code\DotNet\Startkit-Official\TestLibrary\obj\Debug\TestLibrary.pdb
+C:\Users\milto\Dropbox\Keep\Versioned\Code\DotNet\Startkit-Official\TestLibrary\obj\Debug\TestLibrary.csprojResolveAssemblyReference.cache
+C:\Users\milto\Dropbox\Keep\Versioned\Code\DotNet\Startkit-Official\TestLibrary\obj\Debug\TestLibrary.dll
+C:\Users\milto\Dropbox\Keep\Versioned\Code\DotNet\Startkit-Official\TestLibrary\obj\Debug\TestLibrary.pdb
+C:\Users\milto\Dropbox\Keep\Versioned\Code\DotNet\Udrix.Toolbox\TestLibrary\obj\Debug\TestLibrary.csprojResolveAssemblyReference.cache
+C:\Users\milto\Dropbox\Keep\Versioned\Code\DotNet\Udrix.Toolbox\TestLibrary\obj\Debug\TestLibrary.dll
+C:\Users\milto\Dropbox\Keep\Versioned\Code\DotNet\Udrix.Toolbox\TestLibrary\obj\Debug\TestLibrary.pdb

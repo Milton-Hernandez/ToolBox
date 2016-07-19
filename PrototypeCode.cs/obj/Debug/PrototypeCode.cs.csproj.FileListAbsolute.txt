@@ -4,3 +4,9 @@ C:\Work\Code\StartKit\Prototype\bin\Debug\PrototypeCode.cs.pdb
 Z:\Keep\Versioned\Code\DotNet\Startkit-Official\PrototypeCode.cs\obj\Debug\PrototypeCode.cs.csprojResolveAssemblyReference.cache
 Z:\Keep\Versioned\Code\DotNet\Startkit-Official\PrototypeCode.cs\obj\Debug\PrototypeCode.cs.exe
 Z:\Keep\Versioned\Code\DotNet\Startkit-Official\PrototypeCode.cs\obj\Debug\PrototypeCode.cs.pdb
+C:\Users\milto\Dropbox\Keep\Versioned\Code\DotNet\Startkit-Official\PrototypeCode.cs\obj\Debug\PrototypeCode.cs.csprojResolveAssemblyReference.cache
+C:\Users\milto\Dropbox\Keep\Versioned\Code\DotNet\Startkit-Official\PrototypeCode.cs\obj\Debug\PrototypeCode.cs.exe
+C:\Users\milto\Dropbox\Keep\Versioned\Code\DotNet\Startkit-Official\PrototypeCode.cs\obj\Debug\PrototypeCode.cs.pdb
+C:\Users\milto\Dropbox\Keep\Versioned\Code\DotNet\Udrix.Toolbox\PrototypeCode.cs\obj\Debug\PrototypeCode.cs.csprojResolveAssemblyReference.cache
+C:\Users\milto\Dropbox\Keep\Versioned\Code\DotNet\Udrix.Toolbox\PrototypeCode.cs\obj\Debug\PrototypeCode.cs.exe
+C:\Users\milto\Dropbox\Keep\Versioned\Code\DotNet\Udrix.Toolbox\PrototypeCode.cs\obj\Debug\PrototypeCode.cs.pdb

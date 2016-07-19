@@ -3,3 +3,9 @@ C:\Work\Code\StartKit\Test\bin\Debug\bin\Debug\TestAssembly.pdb
 Z:\Keep\Versioned\Code\DotNet\Startkit-Official\StarterKit.Test\obj\Debug\StarterKitTest.csprojResolveAssemblyReference.cache
 Z:\Keep\Versioned\Code\DotNet\Startkit-Official\StarterKit.Test\obj\Debug\TestAssembly.dll
 Z:\Keep\Versioned\Code\DotNet\Startkit-Official\StarterKit.Test\obj\Debug\TestAssembly.pdb
+C:\Users\milto\Dropbox\Keep\Versioned\Code\DotNet\Startkit-Official\StarterKit.Test\obj\Debug\StarterKitTest.csprojResolveAssemblyReference.cache
+C:\Users\milto\Dropbox\Keep\Versioned\Code\DotNet\Startkit-Official\StarterKit.Test\obj\Debug\TestAssembly.dll
+C:\Users\milto\Dropbox\Keep\Versioned\Code\DotNet\Startkit-Official\StarterKit.Test\obj\Debug\TestAssembly.pdb
+C:\Users\milto\Dropbox\Keep\Versioned\Code\DotNet\Udrix.Toolbox\StarterKit.Test\obj\Debug\StarterKitTest.csprojResolveAssemblyReference.cache
+C:\Users\milto\Dropbox\Keep\Versioned\Code\DotNet\Udrix.Toolbox\StarterKit.Test\obj\Debug\TestAssembly.dll
+C:\Users\milto\Dropbox\Keep\Versioned\Code\DotNet\Udrix.Toolbox\StarterKit.Test\obj\Debug\TestAssembly.pdb
